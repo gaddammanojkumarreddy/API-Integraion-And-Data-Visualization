@@ -12,4 +12,4 @@ DURATION : 4WEEKS
 
 MENTOR   : NEELA SANTOSH
 
-https://github.com/gaddammanojkumarreddy/API-Integraion-And-Data-Visualization/issues
+https://github.com/gaddammanojkumarreddy/API-Integraion-And-Data-Visualization/issues/
