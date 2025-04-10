@@ -12,4 +12,4 @@ DURATION : 4WEEKS
 
 MENTOR   : NEELA SANTOSH
 
-main/t1%20weather_dashboard_hyderabad.png
+
